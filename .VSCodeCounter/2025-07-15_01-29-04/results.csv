@@ -1,0 +1,31 @@
+"filename", "language", "CSS", "TypeScript", "JavaScript", "TypeScript JSX", "JSON with Comments", "JSON", "Markdown", "Properties", "XML", "HTML", "comment", "blank", "total"
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/.env", "Properties", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/README.md", "Markdown", 0, 0, 0, 0, 0, 0, 58, 0, 0, 0, 0, 12, 70
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/eslint.config.js", "JavaScript", 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 2, 24
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/index.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 1, 14
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/package-lock.json", "JSON", 0, 0, 0, 0, 0, 3348, 0, 0, 0, 0, 0, 1, 3349
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/package.json", "JSON", 0, 0, 0, 0, 0, 32, 0, 0, 0, 0, 0, 1, 33
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/public/vite.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/components/App/App.module.css", "CSS", 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 47
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/components/App/App.tsx", "TypeScript JSX", 0, 0, 0, 55, 0, 0, 0, 0, 0, 0, 1, 7, 63
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/components/ErrorMessage/ErrorMessage.module.css", "CSS", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 13
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/components/ErrorMessage/ErrorMessage.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/components/Loader/Loader.module.css", "CSS", 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 13
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/components/Loader/Loader.tsx", "TypeScript JSX", 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 2, 10
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/components/MovieGrid/MovieGrid.module.css", "CSS", 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 55
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/components/MovieGrid/MovieGrid.tsx", "TypeScript JSX", 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 2, 35
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/components/MovieModal/MovieModal.module.css", "CSS", 79, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 88
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/components/MovieModal/MovieModal.tsx", "TypeScript JSX", 0, 0, 0, 64, 0, 0, 0, 0, 0, 0, 0, 6, 70
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/components/SearchBar/SearchBar.module.css", "CSS", 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 58
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/components/SearchBar/SearchBar.tsx", "TypeScript JSX", 0, 0, 0, 43, 0, 0, 0, 0, 0, 0, 1, 4, 48
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/declarations.d.ts", "TypeScript", 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/index.css", "CSS", 61, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 69
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/main.tsx", "TypeScript JSX", 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/services/movieService.ts", "TypeScript", 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 22
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/types/movie.ts", "TypeScript", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/src/vite-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/tsconfig.app.json", "JSON", 0, 0, 0, 0, 0, 23, 0, 0, 0, 0, 2, 3, 28
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/tsconfig.json", "JSON with Comments", 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 1, 8
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/tsconfig.node.json", "JSON", 0, 0, 0, 0, 0, 21, 0, 0, 0, 0, 2, 3, 26
+"/Users/pablotheparrot/Desktop/GOIT/React003/03-react-movies/vite.config.ts", "TypeScript", 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 11
+"Total", "-", 303, 38, 22, 213, 7, 3424, 58, 1, 1, 13, 8, 96, 4184
