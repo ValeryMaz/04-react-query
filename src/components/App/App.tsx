@@ -52,10 +52,10 @@ function App() {
     // const movies = await fetchMovies(query);
     // console.log("фильмы", movies);
     // setMovies(movies);
-    if (movies.length === 0) {
-      toast.error("No movies found for your request.");
-      return;
-    }
+    // if (movies?.length === 0) {
+    //   toast.error("No movies found for your request.");
+    //   return;
+    // }
   };
 
   return (
@@ -75,6 +75,9 @@ function App() {
         />
       )}
       {isLoading && <Loader />}
+      {isSuccess && movies.length === 0 && searchQuery !== "" && (
+        <div>{toast.error("No movies found for your request.")}</div>
+      )}
       {!error && movies?.length > 0 && (
         <MovieGrid movies={movies} onSelect={openModal} />
       )}
